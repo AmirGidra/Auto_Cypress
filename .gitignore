@@ -1,0 +1,11 @@
+# Ignoriši node_modules direktorijum
+node_modules/
+
+# Možeš dodati i druge stvari koje želiš da ignorišeš, kao što su:
+.DS_Store
+*.log
+*.env
+
+# Ignoriši fajlove za build (ako koristiš neki build alat)
+dist/
+build/
